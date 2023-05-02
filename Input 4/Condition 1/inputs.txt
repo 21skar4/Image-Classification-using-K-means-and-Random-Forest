@@ -1,0 +1,9 @@
+Image location: C:/Users/bhask/OneDrive/Desktop/Grp47_Pegu_Sikchi_Raj/Input 4/4.jpg
+GLCM location: C:/Users/bhask/OneDrive/Desktop/Grp47_Pegu_Sikchi_Raj/Input 4/GLCM_4.npy
+Number of pixels: 185504
+Blured : no
+Number of clusters: 3
+Max Iterations of kmeans: 20
+Epsilon of kmeans: 1.0
+Number of Samples per cluster: 9000
+RF accuracy: 0.7488888888888889
